@@ -6,7 +6,7 @@ The site uses the Jekyll [documentation](https://idratherbewriting.com/documenta
 
 The header can be configured from the [topnav.yml](https://github.com/docuscope/docuscope.github.io/blob/main/_data/topnav.yml) file.
 
-## Adding a configuring pages
+## Adding and configuring pages
 
 Pages can be oranized into a subdirectory stucture from the [pages](https://github.com/docuscope/docuscope.github.io/tree/main/pages) directory.
 
