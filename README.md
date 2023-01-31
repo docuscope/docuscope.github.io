@@ -14,4 +14,6 @@ Pages can be oranized into a subdirectory stucture from the [pages](https://gith
 
 Sidbars can be added and configured using YAML files in the [sidebars directory](https://github.com/docuscope/docuscope.github.io/tree/main/_data/sidebars).
 
+## Updating pages
 
+There is now a `gh-pages` branch. When that branch is updated from the the main branch, the pages site will update.
