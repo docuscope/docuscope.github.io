@@ -10,6 +10,7 @@ topnav:
 
 #Topnav dropdowns
 topnav_dropdowns:
+- title: Topnav dropdowns
   folders:
     - title: DocuScope CA
       folderitems:
@@ -19,7 +20,6 @@ topnav_dropdowns:
           url: /docuscope-cao
         - title: Corpus Analysis & Concordancer
           url: /p2_landing_page.html
-- title: Topnav dropdowns
     - title: More DocuScope
       folderitems:
         - title: DocuScope Project
