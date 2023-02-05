@@ -1,9 +1,9 @@
 ---
-title: "Getting Started with DocuScope"
+title: "Getting Started with DocuScope CA"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
-permalink: index.html
+permalink: docuscope-cao.html
 summary: This site contains documentation for DocuScope Corpus Analysis (or DocuScope CA), as well information for those using the docuscospacy Python package.
 ---
 
