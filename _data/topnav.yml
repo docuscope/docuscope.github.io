@@ -17,7 +17,7 @@ topnav_dropdowns:
         - title: Corpus Analysis
           url: /mydoc_introduction.html
         - title: Corpus Analysis Online
-          url: /docuscope-cao
+          url: /docuscope-cao.html
         - title: Corpus Analysis & Concordancer
           url: /p2_landing_page.html
     - title: More DocuScope
